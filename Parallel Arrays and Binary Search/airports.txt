@@ -1,0 +1,25 @@
+ACV 69732 Acarta / Eureka
+BFL 100433 Bakersfield
+BUR 2077892 Burbank
+CEC 8667 Crescent City
+CIC 0 Chico
+CRQ 180 Carlsbad
+FAT 761298 Fresno
+LAX 39636042 Los Angeles
+LGB 1386357 Long Beach
+MMH 21826 Mammoth Lakes
+MRY 192136 Monterey
+OAK 5934639 Oakland
+ONT 2104625 Ontario
+PSP 995801 Palm Springs
+RDD 43414 Redding
+SAN 10340164 San Diego
+SBA 329751 Santa Barbara
+SBP 162719 San Louis Obispo
+SCK 93076 Stockton
+SFO 25707101 San Francisco
+SJC 5321603 San Jose
+SMF 4969366 Sacramento
+SMX 40120 Santa Maria
+SNA 5217242 Santa Ana
+STS 167151 Santa Rosa
